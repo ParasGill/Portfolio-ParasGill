@@ -29,3 +29,12 @@ The primary goal is to:
 - Report
 - Visualizations
 - Stakeholder Presentation
+
+
+![City of Vancouver](https://github.com/ParasGill/Portfolio-ParasGill/blob/main/Screenshot%202024-08-27%20at%2010.56.11.png)
+
+![City of Vancouver]()
+
+![City of Vancouver]()
+
+![City of Vaancouver]()
