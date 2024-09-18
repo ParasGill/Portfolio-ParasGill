@@ -33,8 +33,8 @@ The primary goal is to:
 
 ![City of Vancouver](https://github.com/ParasGill/Portfolio-ParasGill/blob/main/Screenshot%202024-08-27%20at%2010.56.11.png)
 
-![City of Vancouver]()
+![City of Vancouver](https://github.com/ParasGill/Portfolio-ParasGill/blob/main/Screenshot%202024-08-27%20at%2010.58.44.png)
 
-![City of Vancouver]()
+![City of Vancouver](https://github.com/ParasGill/Portfolio-ParasGill/blob/main/Screenshot%202024-08-27%20at%2011.01.26.png)
 
-![City of Vaancouver]()
+![City of Vaancouver](https://github.com/ParasGill/Portfolio-ParasGill/blob/main/Screenshot%202024-08-27%20at%2011.05.34.png)
